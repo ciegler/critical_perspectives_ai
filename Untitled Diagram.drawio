@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-01T20:15:25.737Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="VB8IWrXY1e6QK0q7AgDV" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-01T20:37:01.526Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="gdYf5nXqBl1d_2VQJZ99" version="21.2.1" type="github">
   <diagram name="Page-1" id="wxqKnzym9CbN2hfAzfNq">
-    <mxGraphModel dx="794" dy="400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,6 +25,12 @@
         <mxCell id="Oei4Xzemq2DtPW6H26rk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="Oei4Xzemq2DtPW6H26rk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#B5739D;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="IGWxZJ-rzR9LiD5vWE0U-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B5739D;" edge="1" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="IGWxZJ-rzR9LiD5vWE0U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Oei4Xzemq2DtPW6H26rk-9" value="&lt;div&gt;&lt;b&gt;Atlas of AI (Crawford, 2021):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;To see the connections and relations and also the power that AI has over our material world, social relations, assumptions about the world and politics the Atlas of AI should show the following relations:&lt;/div&gt;&lt;div&gt;Which states and corporations dominate and drive AI (who decides?)&lt;/div&gt;&lt;div&gt;and who is impacted by AI in a positive or negative way. Who benefits from AI, who is doing the exploitative labor to run AI, what ecosystems are destroyed by AI and which data is captured.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="510" y="140" width="310" height="190" as="geometry" />
         </mxCell>
@@ -42,6 +48,21 @@
         </mxCell>
         <mxCell id="IGWxZJ-rzR9LiD5vWE0U-3" value="AI and intelligence" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="170" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B5739D;" edge="1" parent="1" source="IGWxZJ-rzR9LiD5vWE0U-5" target="IGWxZJ-rzR9LiD5vWE0U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-5" value="&lt;b&gt;Capitalism Composition (Steinhoff):&lt;/b&gt;&lt;br&gt;&lt;div align=&quot;justify&quot;&gt;The AI marked consists of several parties dominated by the big tech industries like Google and Facebook, which are holding marked shares in consumer commodity and fixed capital. Apart from them the AI &quot;dinosaurs&quot; like Siemens focused on industrial manufacturing.&lt;br&gt;Startups usually focus on specific services or products and are usually acquired by the big tech companies and even if not they are connected to these tech giants since they use their infrastructure. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;AI think tanks are founded by academia and industries and even though it is not their only purpose they are important for public relations and &quot;democratization&quot; of AI. &lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#DC8ADD;strokeColor=#9C22B4;align=center;horizontal=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-160" width="300" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-7" value="The connections of AI in the commercial marked" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-8" value="&lt;div&gt;&lt;b&gt;Platform Capitalists (Steinhoff):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;AI products are often connected to platforms with which they form a virtuous loop: the AI/ML product optimizes the platform and the platform collects data for the AI/ML product.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Since the data collection can be used or is already a form of surveillance the capital itself is build upon and depends on surveillance.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DC8ADD;strokeColor=#9c22b4;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-170" width="210" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-11" value="How could these AI infrastructures look like" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
