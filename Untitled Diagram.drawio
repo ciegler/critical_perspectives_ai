@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T13:47:37.360Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="YOYYxmUIH684GvgmIHig" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T13:49:01.331Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="-Yg7ZPbs5LLKS-ocnwJ1" version="21.2.9" type="github">
   <diagram name="Page-1" id="wxqKnzym9CbN2hfAzfNq">
-    <mxGraphModel dx="836" dy="1521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="2100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,6 +107,12 @@
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-13" value="&lt;div&gt;&lt;b&gt;Materials needed for AI (Halpern)&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;copper for cables and machines -&amp;gt; production and mining is supported by AI&lt;/li&gt;&lt;li&gt;lithium -&amp;gt; production is planned to be optimized by AI&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="957.5" y="-340" width="332.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="W47DAjNjgLAv1Q1VvXmN-15" target="pomRhs1tSJ-HScSWZ4Wk-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="W47DAjNjgLAv1Q1VvXmN-15" target="pomRhs1tSJ-HScSWZ4Wk-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-15" value="AI needs the&lt;b&gt; privatisation&lt;/b&gt; of public resources like water and the &lt;b&gt;publication&lt;/b&gt; of private resources like personal data." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1010" y="-550" width="250" height="130" as="geometry" />
