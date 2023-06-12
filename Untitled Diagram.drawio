@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T11:16:34.866Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="gvR0piZgbLshKVCFlgf4" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T11:18:53.174Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="7hGKDwe_CJcVWK_2xOU1" version="21.3.7" type="github">
   <diagram name="Page-1" id="wxqKnzym9CbN2hfAzfNq">
-    <mxGraphModel dx="1985" dy="3200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="2815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -283,7 +283,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1OhX4noRyEKHyUKizOx6-2" value="4X Model" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1OhX4noRyEKHyUKizOx6-2" value="&lt;div&gt;4X Model&lt;/div&gt;&lt;div&gt;(Costs of connection ch.3)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2000" y="-910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-3" value="&lt;div&gt;&lt;b&gt;Explore:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The colonizer explores the (to be) colonized&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;comparison historical colonialism and data colonialism on the basis of incomprehensible contracts&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
@@ -301,8 +301,8 @@
         <mxCell id="1OhX4noRyEKHyUKizOx6-20" value="In colonialism humans as well as nature is seen as resource to exploit" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1840" y="-830" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1OhX4noRyEKHyUKizOx6-21" value="&lt;div&gt;&lt;b&gt;Extractive rationalities to support the colonialist system:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;economic: frame data and labor as valueless&lt;/li&gt;&lt;li&gt;legal: frame data/land as ownerless&lt;/li&gt;&lt;li&gt;developmental: colonialism as civilisational project&lt;/li&gt;&lt;li&gt;cultural: lowering value of privacy and increasing value of self-presentation&lt;/li&gt;&lt;li&gt;technical: goal of science, entrepreneurship and human creativity&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="-1500" width="380" height="160" as="geometry" />
+        <mxCell id="1OhX4noRyEKHyUKizOx6-21" value="&lt;div&gt;&lt;b&gt;Extractive rationalities to support the colonialist system:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Costs of connection ch.3)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;economic: frame data and labor as valueless&lt;/li&gt;&lt;li&gt;legal: frame data/land as ownerless&lt;/li&gt;&lt;li&gt;developmental: colonialism as civilisational project&lt;/li&gt;&lt;li&gt;cultural: lowering value of privacy and increasing value of self-presentation&lt;/li&gt;&lt;li&gt;technical: goal of science, entrepreneurship and human creativity&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="-1510" width="390" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
