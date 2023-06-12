@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T11:16:00.711Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vQFba74yvP5mtMlZarg-" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T11:16:34.866Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="gvR0piZgbLshKVCFlgf4" version="21.3.7" type="github">
   <diagram name="Page-1" id="wxqKnzym9CbN2hfAzfNq">
-    <mxGraphModel dx="1588" dy="3000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="3200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,9 +23,6 @@
         </mxCell>
         <mxCell id="Oei4Xzemq2DtPW6H26rk-6" value="When we change our assumptions about AI we can maybe change how these assumptions are reproduced" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="-390" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Oei4Xzemq2DtPW6H26rk-8" value="&lt;div align=&quot;left&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Questions:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;With DALLE2 existing as intelligent program, is now the fast production of images seen as intelligence?&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;what is meant by event horizon?&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="250" y="730" width="340" height="340" as="geometry" />
         </mxCell>
         <mxCell id="Oei4Xzemq2DtPW6H26rk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="Oei4Xzemq2DtPW6H26rk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
