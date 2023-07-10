@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T10:53:40.537Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="i4zAIXqjP1u_6TdktYkK" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T11:14:07.199Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="XXkz3Q1p8yL32uR-Bg-r" version="21.6.1" type="github">
   <diagram name="Page-1" id="wxqKnzym9CbN2hfAzfNq">
-    <mxGraphModel dx="2614" dy="3102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3497" dy="2453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,72 +8,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oei4Xzemq2DtPW6H26rk-1" value="&lt;div&gt;&lt;b&gt;&quot;AI is neither&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 79.96%; top: 32.31%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 80.87%; top: 32.31%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.895917);&quot;&gt;ar&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 15.91%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.931646);&quot;&gt;ti&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 17.49%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.886565);&quot;&gt;fi&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 18.96%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.890899);&quot;&gt;cial&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 22.81%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 24.08%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.871713);&quot;&gt;nor&lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 28.04%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 29.32%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.817957);&quot;&gt;intelligent&quot; (Crawford, 2021)&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 29.32%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.817957);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 29.32%; top: 34.6%; font-size: calc(var(--scale-factor)*11.00px); font-family: sans-serif; transform: scaleX(0.817957);&quot;&gt;AI is often seen as disembodied intelligence that is completely disconnected from the physical/material world. In contrast to that Crawford points out that AI clearly has a connection to the material world since it is build upon the resources of the planet (like minerals, oil, etc.) and of it&#39;s inhabitants (e.g. human labor). Furthermore AI depends on political and social structures and already formed assumptions about intelligence.&amp;nbsp; &lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="250" y="-290" width="380" height="200" as="geometry" />
+          <mxGeometry x="480" y="1695" width="380" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Oei4Xzemq2DtPW6H26rk-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" parent="1" source="Oei4Xzemq2DtPW6H26rk-2" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Oei4Xzemq2DtPW6H26rk-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-290" as="targetPoint" />
+            <mxPoint x="10" y="1269.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=link;edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;" parent="1" source="IGWxZJ-rzR9LiD5vWE0U-3" target="IGWxZJ-rzR9LiD5vWE0U-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Oei4Xzemq2DtPW6H26rk-2" value="&lt;div&gt;&lt;b&gt;AI reflects and produces social relationships and understandings of the world (Crawford, 2021)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;We see AI as intelligent, since our assumption is that solving math problems fast is an expression of intelligence. And the assumption that AI is intelligent also influences our perception of intelligence. &lt;br&gt;&lt;/div&gt;&lt;div&gt;We feed the AI with our premade assumptions and biases about the world and the AI will reproduce and strengthen these biases. &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-550" width="320" height="160" as="geometry" />
+          <mxGeometry x="190" y="1390" width="320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Oei4Xzemq2DtPW6H26rk-6" value="When we change our assumptions about AI we can maybe change how these assumptions are reproduced" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="365" y="-390" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Oei4Xzemq2DtPW6H26rk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#7EA6E0;" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="Oei4Xzemq2DtPW6H26rk-2" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="Oei4Xzemq2DtPW6H26rk-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeColor=#B5739D;" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="IGWxZJ-rzR9LiD5vWE0U-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B5739D;" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="IGWxZJ-rzR9LiD5vWE0U-8" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Oei4Xzemq2DtPW6H26rk-9" target="Oei4Xzemq2DtPW6H26rk-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Oei4Xzemq2DtPW6H26rk-9" value="&lt;div&gt;&lt;b&gt;Atlas of AI (Crawford, 2021):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;To see the connections and relations and also the power that AI has over our material world, social relations, assumptions about the world and politics the Atlas of AI should show the following relations:&lt;/div&gt;&lt;div&gt;Which states and corporations dominate and drive AI (who decides?)&lt;/div&gt;&lt;div&gt;and who is impacted by AI in a positive or negative way. Who benefits from AI, who is doing the exploitative labor to run AI, what ecosystems are destroyed by AI and which data is captured.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="510" y="-660" width="310" height="190" as="geometry" />
+          <mxGeometry x="590" y="1180" width="310" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Oei4Xzemq2DtPW6H26rk-11" value="By better understanding the system behind AI we can better analyze it&#39;s power structures" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="380" y="-600" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-1" value="&lt;div&gt;Goal of DeepMind:&lt;/div&gt;&lt;div&gt;&quot;solve intelligence&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dc8add;strokeColor=#9C22B4;" parent="1" vertex="1">
-          <mxGeometry x="100" y="-710" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-4" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=link;edgeStyle=orthogonalEdgeStyle;strokeColor=#000000;" parent="1" source="Oei4Xzemq2DtPW6H26rk-2" target="IGWxZJ-rzR9LiD5vWE0U-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="-560" as="sourcePoint" />
-            <mxPoint x="190" y="-630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-3" value="AI and intelligence" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="-640" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.005;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#B5739D;" parent="1" source="IGWxZJ-rzR9LiD5vWE0U-5" target="IGWxZJ-rzR9LiD5vWE0U-8" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="IGWxZJ-rzR9LiD5vWE0U-5" target="DPZt0FXSSfCK9yg0k_5H-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGWxZJ-rzR9LiD5vWE0U-5" value="&lt;b&gt;Capitalism Composition (Steinhoff):&lt;/b&gt;&lt;br&gt;&lt;div align=&quot;justify&quot;&gt;The AI marked consists of several parties dominated by the big tech industries like Google and Facebook, which are holding marked shares in consumer commodity and fixed capital. Apart from them the AI &quot;dinosaurs&quot; like Siemens focused on industrial manufacturing.&lt;br&gt;Startups usually focus on specific services or products and are usually acquired by the big tech companies and even if not they are connected to these tech giants since they use their infrastructure. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;AI think tanks are founded by academia and industries and even though it is not their only purpose they are important for public relations and &quot;democratization&quot; of AI. &lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#DC8ADD;strokeColor=#9C22B4;align=center;horizontal=1;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-1030" width="300" height="270" as="geometry" />
-        </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-7" value="The connections of AI in the commercial marked" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="-730" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="990" width="300" height="270" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="IGWxZJ-rzR9LiD5vWE0U-8" target="W47DAjNjgLAv1Q1VvXmN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IGWxZJ-rzR9LiD5vWE0U-8" value="&lt;div&gt;&lt;b&gt;Platform Capitalists (Steinhoff):&lt;/b&gt;&lt;/div&gt;&lt;div&gt;AI products are often connected to platforms with which they form a virtuous loop: the AI/ML product optimizes the platform and the platform collects data for the AI/ML product.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Since the data collection can be used or is already a form of surveillance the capital itself is build upon and depends on surveillance.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DC8ADD;strokeColor=#9c22b4;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-1090" width="220" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="IGWxZJ-rzR9LiD5vWE0U-11" value="How could these AI infrastructures look like" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-1030" width="120" height="60" as="geometry" />
+          <mxGeometry x="873.75" y="1460" width="220" height="200" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-1" target="W47DAjNjgLAv1Q1VvXmN-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-1" value="&lt;div&gt;&lt;b&gt;&quot;fantasy of stretching finite resources to infinite horizons&quot; (Halpern)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="990" y="-880" width="290" height="100" as="geometry" />
+          <mxGeometry x="1230" y="1510" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-3" target="IGWxZJ-rzR9LiD5vWE0U-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -81,47 +51,35 @@
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-3" target="W47DAjNjgLAv1Q1VvXmN-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DPZt0FXSSfCK9yg0k_5H-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-3" target="DPZt0FXSSfCK9yg0k_5H-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DPZt0FXSSfCK9yg0k_5H-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-3" target="DPZt0FXSSfCK9yg0k_5H-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1OhX4noRyEKHyUKizOx6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-3" target="1OhX4noRyEKHyUKizOx6-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="W47DAjNjgLAv1Q1VvXmN-3" value="&lt;b&gt;AI and capitalism &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1063.75" y="-1130" width="120" height="60" as="geometry" />
+        <mxCell id="W47DAjNjgLAv1Q1VvXmN-3" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;AI and capitalism &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1150" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-6" value="to reinforce its own system" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="880" y="-1090" width="120" height="80" as="geometry" />
+          <mxGeometry x="1100" y="1400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-8" target="W47DAjNjgLAv1Q1VvXmN-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-8" value="to keep the promises that were made by economy " style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1070" y="-1000" width="160" height="80" as="geometry" />
+          <mxGeometry x="1310" y="1390" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-9" value="AI to optimize mining to get even more resources. " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="990" y="-740" width="150" height="60" as="geometry" />
+          <mxGeometry x="1230" y="1650" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-11" value="AI as a method to keep our lifestyle of limitless consumption " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="-1000" width="180" height="80" as="geometry" />
+          <mxGeometry x="1610" y="1390" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-13" target="W47DAjNjgLAv1Q1VvXmN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-13" value="&lt;div&gt;&lt;b&gt;Materials needed for AI (Halpern)&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;copper for cables and machines -&amp;gt; production and mining is supported by AI&lt;/li&gt;&lt;li&gt;lithium -&amp;gt; production is planned to be optimized by AI&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="957.5" y="-340" width="332.5" height="160" as="geometry" />
+          <mxGeometry x="1197.5" y="2050" width="332.5" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-15" target="pomRhs1tSJ-HScSWZ4Wk-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-15" target="pomRhs1tSJ-HScSWZ4Wk-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-15" value="AI needs the&lt;b&gt; privatisation&lt;/b&gt; of public resources like water and the &lt;b&gt;publication&lt;/b&gt; of private resources like personal data." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="-550" width="250" height="130" as="geometry" />
+          <mxGeometry x="1250" y="1840" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.313;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="W47DAjNjgLAv1Q1VvXmN-18" target="Oei4Xzemq2DtPW6H26rk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -130,40 +88,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-18" value="&lt;b&gt;AI defines our understanding and perception&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="50" y="1635" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W47DAjNjgLAv1Q1VvXmN-21" value="&lt;div&gt;&lt;b&gt;Machine vision for seeing the &quot;invisible&quot; (Halpern)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;With AI and ML there are newer scopes of possibilities for example inhuman vision. Therefore new ways of perception need to be invented, like the earthwide network of plates to &quot;see&quot; black holes.&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="305" y="30" width="255" height="170" as="geometry" />
+          <mxGeometry x="140" y="1750" width="255" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-1" target="W47DAjNjgLAv1Q1VvXmN-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="WyzMJneBAXNDvvNnw_lp-2" target="pomRhs1tSJ-HScSWZ4Wk-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2010" y="1040" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-1" target="pomRhs1tSJ-HScSWZ4Wk-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="WyzMJneBAXNDvvNnw_lp-2" target="pomRhs1tSJ-HScSWZ4Wk-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2040" y="1040" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-1" target="pomRhs1tSJ-HScSWZ4Wk-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-1" target="pomRhs1tSJ-HScSWZ4Wk-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1OhX4noRyEKHyUKizOx6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-1" target="pomRhs1tSJ-HScSWZ4Wk-9" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Mining&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="-290" width="120" height="60" as="geometry" />
+        <mxCell id="1OhX4noRyEKHyUKizOx6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="WyzMJneBAXNDvvNnw_lp-2" target="pomRhs1tSJ-HScSWZ4Wk-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2070" y="1010" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-4" value="&lt;div&gt;&lt;b&gt;Silver Peak - Crawford Earth&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;huge lithium lake, biggest and only lithium mine in US&lt;/li&gt;&lt;li&gt;parallel to gold rush: &quot;gray gold&quot; -&amp;gt; fast extraction and then nothing is left&lt;/li&gt;&lt;li&gt;only the rich get more wealty&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="20" width="230" height="180" as="geometry" />
+          <mxGeometry x="1850" y="1180" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-7" value="&lt;div&gt;&lt;b&gt;Mining is always connected to violence - Crawford Earth&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;slavery like working conditions&lt;/li&gt;&lt;li&gt;violence towards the environment &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1730" y="-220" width="190" height="190" as="geometry" />
+          <mxGeometry x="2220" y="1040" width="190" height="190" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-9" value="&lt;div&gt;&lt;b&gt;Mining is only profitable since it does not account for its real costs - Crawford Earth&lt;/b&gt;&lt;/div&gt;&lt;div&gt;the costs of mining are borne by the environment, by the poor and by the humans not being born yet&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="2170" y="-435" width="180" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-11" target="pomRhs1tSJ-HScSWZ4Wk-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2620" y="835" width="180" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-11" target="pomRhs1tSJ-HScSWZ4Wk-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -173,64 +125,56 @@
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-11" target="pomRhs1tSJ-HScSWZ4Wk-19" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1560" y="-490" as="targetPoint" />
+            <mxPoint x="2010" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Resources&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1500" y="-420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-15" target="pomRhs1tSJ-HScSWZ4Wk-23" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-11" target="WyzMJneBAXNDvvNnw_lp-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-11" target="1OhX4noRyEKHyUKizOx6-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-11" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;Resources&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1950" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-15" value="&lt;div&gt;&lt;b&gt;Water - Crawford Earth&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Water is privatized for the mining of rare materials&lt;/li&gt;&lt;li&gt;water is poisoned in the process of mining&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1360" y="-710" width="160" height="150" as="geometry" />
+          <mxGeometry x="1930" y="630" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-17" value="&lt;div&gt;&lt;b&gt;Rare materials / elements - Crawford Earth&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;long period of development but rapid excavation&lt;/li&gt;&lt;li&gt;limited !&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1890" y="-520" width="180" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="pomRhs1tSJ-HScSWZ4Wk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-19" target="pomRhs1tSJ-HScSWZ4Wk-25" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2340" y="750" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-19" value="&lt;div&gt;&lt;b&gt;Health - Crawford Earth&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;the health of humans is a resource for AI, it is used for mining raw materials&lt;/li&gt;&lt;li&gt;the health of humans is put at risk by our e-waste (Sodom etc)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="-910" width="170" height="170" as="geometry" />
+          <mxGeometry x="2100" y="600" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="pomRhs1tSJ-HScSWZ4Wk-23" target="pomRhs1tSJ-HScSWZ4Wk-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-23" value="Nestle and the privatisation of water from a new perspective" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1190" y="-695" width="130" height="70" as="geometry" />
+          <mxGeometry x="1430" y="1695" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pomRhs1tSJ-HScSWZ4Wk-25" value="Human lives as less worthy than the interests of few, the economy and technology " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="-870" width="140" height="90" as="geometry" />
+          <mxGeometry x="1560" y="1520" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="DPZt0FXSSfCK9yg0k_5H-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1280" y="-1380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="DPZt0FXSSfCK9yg0k_5H-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.012;entryY=0.331;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-1" target="DPZt0FXSSfCK9yg0k_5H-5" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPZt0FXSSfCK9yg0k_5H-1" target="DPZt0FXSSfCK9yg0k_5H-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OhX4noRyEKHyUKizOx6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.045;entryY=0.984;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-1" target="1OhX4noRyEKHyUKizOx6-1" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="DPZt0FXSSfCK9yg0k_5H-1" target="1OhX4noRyEKHyUKizOx6-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-1" value="&lt;div&gt;&lt;b&gt;data colonialism - Costs of connection 1&lt;/b&gt;&lt;/div&gt;&lt;div&gt;the next state of capitalism: extracting value out of human life&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="-1350" width="180" height="100" as="geometry" />
+          <mxGeometry x="1450" y="130" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.475;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-3" target="DPZt0FXSSfCK9yg0k_5H-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-3" value="&lt;div&gt;&lt;b&gt;colonialism criteria:&lt;/b&gt;&lt;ul&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;appropriation of resources&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;unequal relations&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;unequal distributions of benefits&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div align=&quot;left&quot;&gt;ideologies&lt;br&gt;&lt;/div&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="-1470" width="220" height="110" as="geometry" />
+          <mxGeometry x="1270" y="10" width="220" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="DPZt0FXSSfCK9yg0k_5H-5" target="DPZt0FXSSfCK9yg0k_5H-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-5" value="&lt;div&gt;&lt;b&gt;data colonialism:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;appropriation of data&lt;/li&gt;&lt;li&gt;unequal power distributions&lt;/li&gt;&lt;li&gt;unequal extraction of value&lt;/li&gt;&lt;li&gt;ideologies&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="-1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="DPZt0FXSSfCK9yg0k_5H-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.451;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-8" target="IGWxZJ-rzR9LiD5vWE0U-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="DPZt0FXSSfCK9yg0k_5H-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-8" target="IGWxZJ-rzR9LiD5vWE0U-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1315" y="230" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-8" target="DPZt0FXSSfCK9yg0k_5H-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -239,22 +183,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-8" value="&lt;div&gt;&lt;b&gt;the cloud empire - cost of connection 2:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;the cloud empire describes the power structures that are build up by the platforms and companies &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="670" y="-1310" width="150" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-12" target="p96Cnbk6w4lSkfSgO8-S-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="285" y="780" width="150" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-12" value="&lt;div&gt;&lt;b&gt;the companies of the cloud empire:&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;google&lt;/li&gt;&lt;li&gt;facebook&lt;/li&gt;&lt;li&gt;apple&lt;/li&gt;&lt;li&gt;microsoft&lt;/li&gt;&lt;li&gt;amazon&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="350" y="-1310" width="230" height="130" as="geometry" />
+          <mxGeometry x="-35" y="780" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-13" value="&lt;div&gt;&lt;b&gt;cloud&lt;/b&gt;:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;functions in a similar way as a network&lt;/li&gt;&lt;li&gt;metaphor that data is stored in a distinct location&lt;/li&gt;&lt;li&gt;a epistime for the cloud empire&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="305" y="-1640" width="185" height="130" as="geometry" />
+          <mxGeometry x="-80" y="450" width="185" height="130" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shape=link;" parent="1" source="DPZt0FXSSfCK9yg0k_5H-14" target="DPZt0FXSSfCK9yg0k_5H-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DPZt0FXSSfCK9yg0k_5H-14" value="&lt;div&gt;&lt;b&gt;Network&lt;/b&gt;:&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;any kind of interconnection&lt;/li&gt;&lt;li&gt;template to describe and reinforce certain forms of organisation&lt;/li&gt;&lt;li&gt;imposing a certain structure to make sense of it (epistime)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
-          <mxGeometry x="590" y="-1520" width="240" height="150" as="geometry" />
+          <mxGeometry x="205" y="570" width="240" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.406;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="1OhX4noRyEKHyUKizOx6-1" target="1OhX4noRyEKHyUKizOx6-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -263,7 +204,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-1" value="&lt;div&gt;&lt;b&gt;coloniality of data connecitons (Costs of connection ch.3)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The third chapter focuses on 4X model of colonialism and the connections between colonialism and capitalism&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="1810" y="-1280" width="230" height="150" as="geometry" />
+          <mxGeometry x="1660" y="180" width="230" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1OhX4noRyEKHyUKizOx6-2" target="1OhX4noRyEKHyUKizOx6-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -277,102 +218,96 @@
         <mxCell id="1OhX4noRyEKHyUKizOx6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="1OhX4noRyEKHyUKizOx6-2" target="1OhX4noRyEKHyUKizOx6-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1OhX4noRyEKHyUKizOx6-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="1OhX4noRyEKHyUKizOx6-2" target="pomRhs1tSJ-HScSWZ4Wk-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2060" y="-790" />
-              <mxPoint x="1720" y="-790" />
-              <mxPoint x="1720" y="-390" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-2" value="&lt;div&gt;4X Model&lt;/div&gt;&lt;div&gt;(Costs of connection ch.3)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2000" y="-910" width="120" height="60" as="geometry" />
+          <mxGeometry x="1730" y="447.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-3" value="&lt;div&gt;&lt;b&gt;Explore:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;The colonizer explores the (to be) colonized&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;comparison historical colonialism and data colonialism on the basis of incomprehensible contracts&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="2250" y="-1250" width="225" height="140" as="geometry" />
+          <mxGeometry x="2202.5" y="10" width="225" height="140" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-5" value="&lt;div&gt;&lt;b&gt;Expand:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Colonialism is a state of mind and a shared culture of colonizer and colonized. The power and influence of the colonizer should expand in physical but also psychological areas.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;subject needs to internalize the disciplinary gaze (psychological)&lt;/li&gt;&lt;li&gt;railroad (historical c.) and surveillance architecture (data c.) as physical embodiment of the act of colonizing&amp;nbsp; &lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="2217.5" y="-1090" width="290" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="1OhX4noRyEKHyUKizOx6-8" target="p96Cnbk6w4lSkfSgO8-S-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2170" y="165" width="290" height="180" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-8" value="&lt;div&gt;&lt;b&gt;Exploit:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Framing the resources as cheap.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;cheap nature and labor made&amp;nbsp; for&amp;nbsp; exploitation&lt;/li&gt;&lt;li&gt;legal, cultural and religious framework that supports this idea&lt;/li&gt;&lt;li&gt;finders keepers: since the colonizer explored the resource (nature or labor) they are allowed to keep and use it&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="2217.5" y="-890" width="290" height="150" as="geometry" />
+          <mxGeometry x="2500" y="300" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-10" value="&lt;div&gt;&lt;b&gt;Examine:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Historically genocide, currently the gradual extinction of social spaces outside of data relations.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;economic violence &lt;br&gt;&lt;/li&gt;&lt;li&gt;MTurk: &quot;puppets&quot; that do subhuman work&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="2227.5" y="-695" width="270" height="130" as="geometry" />
+          <mxGeometry x="2202.5" y="447.5" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="1OhX4noRyEKHyUKizOx6-20" target="1OhX4noRyEKHyUKizOx6-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-20" value="In colonialism humans as well as nature is seen as resource to exploit" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1840" y="-830" width="140" height="80" as="geometry" />
+          <mxGeometry x="1720" y="850" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1OhX4noRyEKHyUKizOx6-21" value="&lt;div&gt;&lt;b&gt;Extractive rationalities to support the colonialist system:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(Costs of connection ch.3)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;economic: frame data and labor as valueless&lt;/li&gt;&lt;li&gt;legal: frame data/land as ownerless&lt;/li&gt;&lt;li&gt;developmental: colonialism as civilisational project&lt;/li&gt;&lt;li&gt;cultural: lowering value of privacy and increasing value of self-presentation&lt;/li&gt;&lt;li&gt;technical: goal of science, entrepreneurship and human creativity&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="-1510" width="390" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p96Cnbk6w4lSkfSgO8-S-8" target="p96Cnbk6w4lSkfSgO8-S-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1610" y="-40" width="390" height="170" as="geometry" />
         </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p96Cnbk6w4lSkfSgO8-S-12" target="p96Cnbk6w4lSkfSgO8-S-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p96Cnbk6w4lSkfSgO8-S-16" target="p96Cnbk6w4lSkfSgO8-S-14" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-1" target="p96Cnbk6w4lSkfSgO8-S-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-1" value="&lt;div&gt;&lt;b&gt;Types of contracted relationships - Digital labor ch.2&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;traditionally waged labor &lt;br&gt;&lt;/li&gt;&lt;li&gt;unpaid and uncontracted user work&lt;/li&gt;&lt;li&gt;self employment &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="40" y="-1930" width="290" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="p96Cnbk6w4lSkfSgO8-S-3" target="p96Cnbk6w4lSkfSgO8-S-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-3" value="Work structures of the cloud empire" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="115" y="-1550" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-4" value="&lt;div&gt;Work structures of the cloud empire are forms cheap labor &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Digital labor ch2)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="2620" y="-847.5" width="160" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-6" value="unpaid user work often includes the data mining and the value generated from data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-2070" width="160" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p96Cnbk6w4lSkfSgO8-S-1" target="p96Cnbk6w4lSkfSgO8-S-8" edge="1">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="-1850" as="sourcePoint" />
-            <mxPoint x="580" y="-1990" as="targetPoint" />
+            <mxPoint x="925" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="p96Cnbk6w4lSkfSgO8-S-1" value="&lt;div&gt;&lt;b&gt;Types of contracted relationships - Digital labor ch.2&lt;/b&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;traditionally waged labor &lt;br&gt;&lt;/li&gt;&lt;li&gt;unpaid and uncontracted user work&lt;/li&gt;&lt;li&gt;self employment &lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="780" y="525" width="290" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-4" target="1OhX4noRyEKHyUKizOx6-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p96Cnbk6w4lSkfSgO8-S-4" value="&lt;div&gt;Work structures of the cloud empire are forms cheap labor &lt;br&gt;&lt;/div&gt;&lt;div&gt;(Digital labor ch2)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="2565" y="-280" width="160" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-6" target="p96Cnbk6w4lSkfSgO8-S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="p96Cnbk6w4lSkfSgO8-S-6" value="unpaid user work often includes the data mining and the value generated from data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
+          <mxGeometry x="657.5" y="300" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-8" target="p96Cnbk6w4lSkfSgO8-S-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-8" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="385" y="-1980" width="40" height="40" as="geometry" />
+          <mxGeometry x="780" y="450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-10" target="p96Cnbk6w4lSkfSgO8-S-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-10" value="Often getting shares instead of (some) money, which makes them even more dependent on the success of the company" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="185" y="-2170" width="205" height="70" as="geometry" />
+          <mxGeometry x="492.5" y="470" width="205" height="70" as="geometry" />
         </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="p96Cnbk6w4lSkfSgO8-S-1" target="p96Cnbk6w4lSkfSgO8-S-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="185" y="-1930" as="sourcePoint" />
-            <mxPoint x="288" y="-2100" as="targetPoint" />
+            <mxPoint x="855" y="340" as="sourcePoint" />
+            <mxPoint x="958" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-12" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="210" y="-2030" width="50" height="50" as="geometry" />
+          <mxGeometry x="700" y="580" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-14" target="p96Cnbk6w4lSkfSgO8-S-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-14" value="suffer the most of the insecurity of labor and income, are highly dependent on the platform and often need a second source of income " style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="480" y="-1820" width="210" height="70" as="geometry" />
+          <mxGeometry x="850" y="340" width="210" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="p96Cnbk6w4lSkfSgO8-S-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="p96Cnbk6w4lSkfSgO8-S-1" target="p96Cnbk6w4lSkfSgO8-S-16" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="-1810" as="sourcePoint" />
-            <mxPoint x="490" y="-1825" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="p96Cnbk6w4lSkfSgO8-S-16" target="p96Cnbk6w4lSkfSgO8-S-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-16" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="382.5" y="-1815" width="45" height="45" as="geometry" />
+          <mxGeometry x="900" y="462.5" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="p96Cnbk6w4lSkfSgO8-S-18" value="high insecurity in labor and income is a basic principle of digital labor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="-1620" width="150" height="90" as="geometry" />
+          <mxGeometry x="610" y="130" width="150" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="WyzMJneBAXNDvvNnw_lp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-1" target="WyzMJneBAXNDvvNnw_lp-4">
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="WyzMJneBAXNDvvNnw_lp-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1450" y="640" as="targetPoint" />
+            <mxPoint x="1670" y="990" as="targetPoint" />
+            <mxPoint x="1210" y="1000" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WyzMJneBAXNDvvNnw_lp-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-1" target="WyzMJneBAXNDvvNnw_lp-2">
@@ -381,17 +316,43 @@
         <mxCell id="WyzMJneBAXNDvvNnw_lp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-1" target="WyzMJneBAXNDvvNnw_lp-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;shape=link;strokeWidth=4;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-1" target="Oei4Xzemq2DtPW6H26rk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WyzMJneBAXNDvvNnw_lp-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;AI embodiment &lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="873.75" y="610" width="190" height="60" as="geometry" />
+          <mxGeometry x="1170" y="945" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-2" target="pomRhs1tSJ-HScSWZ4Wk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-2" target="W47DAjNjgLAv1Q1VvXmN-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WyzMJneBAXNDvvNnw_lp-2" value="&lt;b&gt;Mining &lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1950" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-4" target="p96Cnbk6w4lSkfSgO8-S-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-4" target="p96Cnbk6w4lSkfSgO8-S-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-4" target="W47DAjNjgLAv1Q1VvXmN-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WyzMJneBAXNDvvNnw_lp-4" value="Labor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="908.75" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="1128.75" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-6" target="IGWxZJ-rzR9LiD5vWE0U-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WyzMJneBAXNDvvNnw_lp-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WyzMJneBAXNDvvNnw_lp-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="1239.9999999999995" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WyzMJneBAXNDvvNnw_lp-6" value="Figure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
